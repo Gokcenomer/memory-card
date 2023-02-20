@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.8be60b0b.css",
+    "main.js": "/memory-card/static/js/main.b8a0f0bd.js",
+    "static/media/gollum.jpg": "/memory-card/static/media/gollum.14f6569152fb4f7c2162.jpg",
+    "static/media/eowin.jpg": "/memory-card/static/media/eowin.26bb44f76d87d4a299d7.jpg",
+    "static/media/legolas.jpg": "/memory-card/static/media/legolas.bae90a7f014eb775d5e4.jpg",
+    "static/media/bilbo.jpg": "/memory-card/static/media/bilbo.fe50e8f647abd96f7eec.jpg",
+    "static/media/pippin.jpg": "/memory-card/static/media/pippin.7dd02c6f99e73a904d3e.jpg",
+    "static/media/frodo.jpg": "/memory-card/static/media/frodo.69dc755b8c709f0461bf.jpg",
+    "static/media/galadriel.jpg": "/memory-card/static/media/galadriel.b74baa4f839c8e14101f.jpg",
+    "static/media/arwen.jpg": "/memory-card/static/media/arwen.c7135570ffc3e627465d.jpg",
+    "index.html": "/memory-card/index.html",
+    "main.8be60b0b.css.map": "/memory-card/static/css/main.8be60b0b.css.map",
+    "main.b8a0f0bd.js.map": "/memory-card/static/js/main.b8a0f0bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8be60b0b.css",
+    "static/js/main.b8a0f0bd.js"
+  ]
+}
